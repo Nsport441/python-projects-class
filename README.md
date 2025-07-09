@@ -8,6 +8,7 @@ Week 01 – Python Basics
 
 Folder: `week01_basics/`
 
+
 Contents | محتوای فایل‌ها
 
 - `Copy of L04_first_code.ipynb`: Basic syntax and first Python code | ساختار پایه و اولین کد پایتون
@@ -17,6 +18,25 @@ Contents | محتوای فایل‌ها
 - `Copy of L09_llm_var_prompt.ipynb`: Prompt engineering and LLMs | طراحی پرامپت و مدل‌های زبانی بزرگ
 
 ---
+Open in Colab
+
+برای اجرای نوت‌بوک‌ها در گوگل کولب، روی دکمه‌های زیر کلیک کنید:
+
+- L04 – First Code  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nsport441/python-projects-class/blob/main/week01_basics/Copy%20of%20L04_first_code.ipynb)
+
+- L06 – Data  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nsport441/python-projects-class/blob/main/week01_basics/Copy%20of%20L06_data.ipynb)
+
+- L07 – f-strings  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nsport441/python-projects-class/blob/main/week01_basics/Copy%20of%20L07_f_strings.ipynb)
+
+- L08 – Variables  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nsport441/python-projects-class/blob/main/week01_basics/Copy%20of%20L08_variables.ipynb)
+
+- L09 – Prompt + LLM  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nsport441/python-projects-class/blob/main/week01_basics/Copy%20of%20L09_llm_var_prompt.ipynb)
+
 
 Goal | هدف
 
