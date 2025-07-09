@@ -4,6 +4,10 @@ This repository contains Jupyter notebooks from a course that teaches **Python p
 
 ---
 
+Week 01 – Python Basics
+
+Folder: `week01_basics/`
+
 Contents | محتوای فایل‌ها
 
 - `Copy of L04_first_code.ipynb`: Basic syntax and first Python code | ساختار پایه و اولین کد پایتون
