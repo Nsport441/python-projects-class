@@ -82,6 +82,33 @@ You can open any `.ipynb` file in **Google Colab** and run the code.
 [Open L06 - Boolean Logic in Colab](https://colab.research.google.com/github/Nsport441/python-projects-class/blob/main/week02/Copy_of_L06_boolean_logic.ipynb)  
 [Open L07 - If Else in Colab](https://colab.research.google.com/github/Nsport441/python-projects-class/blob/main/week02/Copy_of_L07_if_else.ipynb)
 
+---
+---
 
+## Week 02 – Lists, Loops, Logic
+
+**Folder:** `week02/`
+
+**Contents | محتوای فایل‌ها:**
+
+- `Copy_of_L01_functions.ipynb` : تعریف و استفاده از توابع در پایتون
+- `Copy_of_L02_lists.ipynb` : ساخت لیست‌ها و کار با آن‌ها
+- `Copy_of_L03_for_loops.ipynb` : استفاده از حلقه for برای تکرار
+- `Copy_of_L04_dictionaries.ipynb` : معرفی دیکشنری‌ها در پایتون
+- `Copy_of_L05_dic_list_llm.ipynb` : تمرین لیست و دیکشنری با مدل زبانی
+- `Copy_of_L06_boolean_logic.ipynb` : منطق بولی و عملگرهای منطقی
+- `Copy_of_L07_if_else.ipynb` : شرط‌گذاری با if / else
+
+**Open in Colab**
+
+[Open L01 - Functions in Colab](https://colab.research.google.com/github/Nsport441/python-projects-class/blob/main/week02/Copy_of_L01_functions.ipynb)  
+[Open L02 - Lists in Colab](https://colab.research.google.com/github/Nsport441/python-projects-class/blob/main/week02/Copy_of_L02_lists.ipynb)  
+[Open L03 - For Loops in Colab](https://colab.research.google.com/github/Nsport441/python-projects-class/blob/main/week02/Copy_of_L03_for_loops.ipynb)  
+[Open L04 - Dictionaries in Colab](https://colab.research.google.com/github/Nsport441/python-projects-class/blob/main/week02/Copy_of_L04_dictionaries.ipynb)  
+[Open L05 - Dic/List + LLM in Colab](https://colab.research.google.com/github/Nsport441/python-projects-class/blob/main/week02/Copy_of_L05_dic_list_llm.ipynb)  
+[Open L06 - Boolean Logic in Colab](https://colab.research.google.com/github/Nsport441/python-projects-class/blob/main/week02/Copy_of_L06_boolean_logic.ipynb)  
+[Open L07 - If Else in Colab](https://colab.research.google.com/github/Nsport441/python-projects-class/blob/main/week02/Copy_of_L07_if_else.ipynb)
+
+---
 
 > مدرس: جناب آقای مصطفی آصفی
