@@ -85,30 +85,36 @@ You can open any `.ipynb` file in **Google Colab** and run the code.
 ---
 ---
 
-## Week 02 – Lists, Loops, Logic
+---
 
-**Folder:** `week02/`
+## Week 03 – Prompt Engineering + LLM
+
+**Folder:** `week03/`
 
 **Contents | محتوای فایل‌ها:**
 
-- `Copy_of_L01_functions.ipynb` : تعریف و استفاده از توابع در پایتون
-- `Copy_of_L02_lists.ipynb` : ساخت لیست‌ها و کار با آن‌ها
-- `Copy_of_L03_for_loops.ipynb` : استفاده از حلقه for برای تکرار
-- `Copy_of_L04_dictionaries.ipynb` : معرفی دیکشنری‌ها در پایتون
-- `Copy_of_L05_dic_list_llm.ipynb` : تمرین لیست و دیکشنری با مدل زبانی
-- `Copy_of_L06_boolean_logic.ipynb` : منطق بولی و عملگرهای منطقی
-- `Copy_of_L07_if_else.ipynb` : شرط‌گذاری با if / else
+- `Copy_of_L01_start_files_part1.ipynb` : شروع تمرین با فایل‌های اولیه – بخش اول
+- `Copy_of_L01_start_files_part2.ipynb` : شروع تمرین با فایل‌های اولیه – بخش دوم
+- `Copy_of_L02_load_data.ipynb` : بارگذاری داده‌ها از منابع مختلف
+- `Copy_of_L03_classify_using_llm.ipynb` : دسته‌بندی اطلاعات با کمک مدل زبانی
+- `Copy_of_L04_extract_using_llm.ipynb` : استخراج اطلاعات از متن با LLM
+- `Copy_of_L05_use_csv_files.ipynb` : خواندن و نوشتن فایل‌های CSV
+- `Copy_of_L06_reusable_functions.ipynb` : ساخت توابع قابل استفاده مجدد
+- `Copy_of_L07_create_itinerary.ipynb` : ساخت برنامه سفر با استفاده از مدل زبانی
+- `madrid_restaurants.csv` : دیتاست رستوران‌های مادرید
 
 **Open in Colab**
 
-[Open L01 - Functions in Colab](https://colab.research.google.com/github/Nsport441/python-projects-class/blob/main/week02/Copy_of_L01_functions.ipynb)  
-[Open L02 - Lists in Colab](https://colab.research.google.com/github/Nsport441/python-projects-class/blob/main/week02/Copy_of_L02_lists.ipynb)  
-[Open L03 - For Loops in Colab](https://colab.research.google.com/github/Nsport441/python-projects-class/blob/main/week02/Copy_of_L03_for_loops.ipynb)  
-[Open L04 - Dictionaries in Colab](https://colab.research.google.com/github/Nsport441/python-projects-class/blob/main/week02/Copy_of_L04_dictionaries.ipynb)  
-[Open L05 - Dic/List + LLM in Colab](https://colab.research.google.com/github/Nsport441/python-projects-class/blob/main/week02/Copy_of_L05_dic_list_llm.ipynb)  
-[Open L06 - Boolean Logic in Colab](https://colab.research.google.com/github/Nsport441/python-projects-class/blob/main/week02/Copy_of_L06_boolean_logic.ipynb)  
-[Open L07 - If Else in Colab](https://colab.research.google.com/github/Nsport441/python-projects-class/blob/main/week02/Copy_of_L07_if_else.ipynb)
+[Open L01 - Start Files Part 1](https://colab.research.google.com/github/Nsport441/python-projects-class/blob/main/week03/Copy_of_L01_start_files_part1.ipynb)  
+[Open L01 - Start Files Part 2](https://colab.research.google.com/github/Nsport441/python-projects-class/blob/main/week03/Copy_of_L01_start_files_part2.ipynb)  
+[Open L02 - Load Data](https://colab.research.google.com/github/Nsport441/python-projects-class/blob/main/week03/Copy_of_L02_load_data.ipynb)  
+[Open L03 - Classify with LLM](https://colab.research.google.com/github/Nsport441/python-projects-class/blob/main/week03/Copy_of_L03_classify_using_llm.ipynb)  
+[Open L04 - Extract with LLM](https://colab.research.google.com/github/Nsport441/python-projects-class/blob/main/week03/Copy_of_L04_extract_using_llm.ipynb)  
+[Open L05 - Use CSV Files](https://colab.research.google.com/github/Nsport441/python-projects-class/blob/main/week03/Copy_of_L05_use_csv_files.ipynb)  
+[Open L06 - Reusable Functions](https://colab.research.google.com/github/Nsport441/python-projects-class/blob/main/week03/Copy_of_L06_reusable_functions.ipynb)  
+[Open L07 - Create Itinerary](https://colab.research.google.com/github/Nsport441/python-projects-class/blob/main/week03/Copy_of_L07_create_itinerary.ipynb)
 
----
+
+----
 
 > مدرس: جناب آقای مصطفی آصفی
