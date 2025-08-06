@@ -1,3 +1,9 @@
+> 📌 **آخرین به‌روزرسانی:** بخش‌های مربوط به هفته دوم و سوم اضافه شدند. (مرداد ۱۴۰۴)
+
+> 📌 **Last update:** Week 02 and Week 03 sections added. (August 2025 | مرداد ۱۴۰۴)
+
+
+
 Python with AI – تمرین‌های پایتون با تمرکز بر هوش مصنوعی
 
 This repository contains Jupyter notebooks from a course that teaches **Python programming with a focus on Artificial Intelligence (AI)**.
